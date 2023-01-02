@@ -9,8 +9,6 @@
 </head>
 <body>
 
-<p>The content of the body element is displayed in the browser window.</p>
-<p>The content of the title element is displayed in the browser tab, in favorites and in search-engine results.</p>
 <script>lichess_widgets.profile_big("light", "wischnjakow", "My Lichess");</script>
 
 </body>
