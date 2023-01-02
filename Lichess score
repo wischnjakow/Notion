@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Lichess</title>
+  <link rel="stylesheet" href="https://rubenwardy.com/lichess_widgets/lichess_widgets.css" />
+<script src="https://rubenwardy.com/lichess_widgets/lichess_widgets.js"></script>
+<!-- For the light theme --> <link rel="stylesheet" href="https://rubenwardy.com/lichess_widgets/light.css" />
+<!-- For the dark theme --> <link rel="stylesheet" href="https://rubenwardy.com/lichess_widgets/dark.css" />
+</head>
+<body>
+
+<p>The content of the body element is displayed in the browser window.</p>
+<p>The content of the title element is displayed in the browser tab, in favorites and in search-engine results.</p>
+<script>lichess_widgets.profile_big("light", "wischnjakow", "My Lichess");</script>
+
+</body>
+</html>
